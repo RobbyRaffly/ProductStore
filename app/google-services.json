@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "50289887389",
+    "firebase_url": "https://fir-1f422-default-rtdb.firebaseio.com",
+    "project_id": "fir-1f422",
+    "storage_bucket": "fir-1f422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50289887389:android:ba3301cf39f5b9bb38ec74",
+        "android_client_info": {
+          "package_name": "com.adl.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50289887389-k1s8ta8vd550lj9gb68pq0t00sjit0pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD8K40iwi9Y1EmZiPN3KjOaixZouBB__4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50289887389-k1s8ta8vd550lj9gb68pq0t00sjit0pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50289887389:android:8434f19b95764b5638ec74",
+        "android_client_info": {
+          "package_name": "com.adl.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50289887389-k1s8ta8vd550lj9gb68pq0t00sjit0pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD8K40iwi9Y1EmZiPN3KjOaixZouBB__4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50289887389-k1s8ta8vd550lj9gb68pq0t00sjit0pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50289887389:android:e14f5d68926fff7938ec74",
+        "android_client_info": {
+          "package_name": "com.adl.fortunecooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50289887389-k1s8ta8vd550lj9gb68pq0t00sjit0pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD8K40iwi9Y1EmZiPN3KjOaixZouBB__4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50289887389-k1s8ta8vd550lj9gb68pq0t00sjit0pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
